@@ -1,0 +1,33 @@
+{
+  "name": "Text Me One",
+  "designer": "Julia Petretta",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 17323,
+  "fonts": [
+    {
+      "name": "Text Me One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "TextMeOne-Regular-TTF.ttf",
+      "postScriptName": "TextMeOne-Regular",
+      "fullName": "Text Me One",
+      "copyright": "Copyright (c) 2012, Julia Petretta (julia.petretta@googlemail.com), with Reserved Font Name 'Text Me'"
+    },
+    {
+      "name": "Text Me One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "TextMeOne-Regular.ttf",
+      "postScriptName": "TextMeOne-Regular",
+      "fullName": "Text Me One",
+      "copyright": "Copyright (c) 2012, Julia Petretta (julia.petretta@googlemail.com), with Reserved Font Name 'Text Me'"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2012-10-31"
+}
